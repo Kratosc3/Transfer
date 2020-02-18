@@ -1,4 +1,4 @@
-\\ JS File upload with preview
+### JS File upload with preview
 
 ```javascript
 function start(){ // Works "onchange=()" eventCaller
