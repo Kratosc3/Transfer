@@ -1,7 +1,7 @@
 ## JS File upload with preview
 
  
-###JS
+### JS
 ```javascript
 function start(){ // Works "onchange=()" eventCaller
 var preview = document.querySelector('#preview');
