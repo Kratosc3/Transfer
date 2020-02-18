@@ -20,3 +20,8 @@ if(files){[].forEach.call(files,ale);}
 
 }
 ```
+```HTML
+<input type="file" value="Submit" multiple onchange = (start())>
+<div id='preview'>a</div>
+```
+
