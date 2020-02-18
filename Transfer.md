@@ -1,6 +1,6 @@
 ## JS File upload with preview
 
-````code  
+ 
 ###JS
 ```javascript
 function start(){ // Works "onchange=()" eventCaller
@@ -27,4 +27,4 @@ if(files){[].forEach.call(files,ale);}
 <input type="file" value="Submit" multiple onchange = (start())>
 <div id='preview'>a</div>
 ```
-````
+
