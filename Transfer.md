@@ -21,6 +21,9 @@ function RnP(file){
 if(files){[].forEach.call(files,RnP);}
 
 }
+
+/// Catch files if image execute function 
+ if ( /\.(jpe?g|png|gif)$/i.test(file.name)
 ```
 ### HTML
 ```HTML
